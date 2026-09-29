@@ -23,7 +23,7 @@
   - [6. Review the Explain Plan](#6-review-the-explain-plan)
   - [7. How to Improve the ETL / Query Design?](#7-how-to-improve-the-etl--query-design)
   - [Key Takeaways](#key-takeaways)
-  - [Automation Option](#automation-option)
+
 
 
 
@@ -337,8 +337,6 @@ The data has now been prepared and is ready for consumption by business users an
 - Review the content in the `Logical Execution plan`, `Distributed execution plan`, and `Explain analyze` tabs of the chosen query. 
   
   ![Execution Plan Details](./attachments/image-11.png)
-
-
 
 
 ## Key Takeaways
