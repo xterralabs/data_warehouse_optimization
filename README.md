@@ -59,28 +59,10 @@
 - `dim_date` (date dimension for pre-2025)
 - `fact_transactions` (historical transactions)
 
-### Lab Options
-
-Both manual and automated options are provided.
-
-| Scenario | Recommendation |
-|----------|----------------|
-| **Student Learning** | Use manual lab for hands-on Presto/SQL experience |
-| **Instructor Setup** | Use automation for quick, consistent setup |
-| **Business User Bootcamp** | Use automation, students can skip to **Data Discovery** lab|
-| **Time Constrained** | Use automation to save 20-30 minutes |
-
-**📖 Manual Lab duration**: approximately 30-45 minutes (follow this guide)
-
-**🚀 Automated Lab duration**: approximately 10-15 minutes (see [Automation Guide](automation/README.md))
-
-
-
 ## 2. Prerequisites
 
 - ✅ Completed [Getting Started Setup Guide](../Getting_Started/README.md) Sections 1 and 2
 - ✅ Access to **watsonx.ai** and **watsonx.data**
-
 
 ## 3. Data Overview and Sources
 
@@ -114,7 +96,6 @@ At the end of the lab, you should have:
 - **Five tables** with historical data (pre-2025) offloaded from Netezza
 - **Ability to run federated queries** combining Netezza 2025 data with watsonx.data historical data
 - **Understanding of query execution plans** and optimization opportunities
-
 
 
 ## 5. Lab Steps
