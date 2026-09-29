@@ -76,7 +76,7 @@ The whole lab will be executed in **watsonx.data** UI interface in the back-end 
 
 ### Netezza Data Schema
 
-[Dataset description](./Data-description.md)
+[Dataset description](./blob/main/Data-description.md)
 
 Due to the limitations of the lab environment, we will:
 
