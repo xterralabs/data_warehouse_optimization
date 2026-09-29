@@ -80,7 +80,6 @@ Both manual and automated options are provided.
 
 - ✅ Completed [Getting Started Setup Guide](../Getting_Started/README.md) Sections 1 and 2
 - ✅ Access to **watsonx.ai** and **watsonx.data**
-- ✅ [env.txt](../../student_creds/env.txt) file with credentials and configuration
 
 
 ## 3. Data Overview and Sources
@@ -358,11 +357,6 @@ The data has now been prepared and is ready for consumption by business users an
   
   ![Execution Plan Details](./attachments/image-11.png)
 
-
-
-## 7. How to Improve the ETL / Query Design?
-
-- Share an ETL or query design change that you think will help in improving the query performance. Post your response in the Teams Chat or [Slack Channel](https://ibm.enterprise.slack.com/archives/C08JNKDRTGB).
 
 
 
