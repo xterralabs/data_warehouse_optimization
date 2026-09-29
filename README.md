@@ -354,11 +354,3 @@ The data has now been prepared and is ready for consumption by business users an
 ✅ **Hybrid Approach:** Kept current data in Netezza while archiving historical data in watsonx.data
 
 
-## Automation Option
-
-For instructors or time-constrained scenarios, see the **[Automation Guide](automation/README.md)** which includes:
-- ✅ What gets automated (schema creation + data insertion)
-- ✅ Time savings (20-30 minutes)
-- ✅ Step-by-step running instructions
-- ✅ Troubleshooting guide
-- ✅ Verification steps
